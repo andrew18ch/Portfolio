@@ -15,3 +15,6 @@ In this depository,you can find my personal work regarding video games projects 
   The project was developed as a part of my MSc.The idea behind the scene that was created,is a scary atmospheric room.The room is the result of fire.That is the reason why there is nobody inside and there is an empty bed.However the doll that it is still there,reminds that people died there.For the development,it was used OpenGl with C++ and Blender for the modelling of the scene's objects.
  #### Objects inside the scene
 ![scee](https://user-images.githubusercontent.com/14617188/51009565-8c77c980-1548-11e9-9834-baff23144e39.PNG)
+ #### Scene as it is executed.Use torchlight and grayscale affect.
+![default](https://user-images.githubusercontent.com/14617188/51009613-b6c98700-1548-11e9-9823-217c111db189.PNG)
+
