@@ -10,6 +10,8 @@ In this depository,you can find my personal work regarding video games projects 
   ![shield_mage](https://user-images.githubusercontent.com/14617188/51008768-13c33e00-1545-11e9-94f0-052988e54c0b.PNG)
   #### Scene of archer class
   ![arcer](https://user-images.githubusercontent.com/14617188/51009134-d364bf80-1546-11e9-8ae1-5227d588c31c.PNG)
+  #### Small demo video for mage class
+  https://www.youtube.com/watch?v=aBwZ6a22kow&feature=youtu.be
 
 ## Scary atmospheric room
   The project was developed as a part of my MSc.The idea behind the scene that was created,is a scary atmospheric room.The room is the result of fire.That is the reason why there is nobody inside and there is an empty bed.However the doll that it is still there,reminds that people died there.For the development,it was used OpenGl with C++ and Blender for the modelling of the scene's objects.
