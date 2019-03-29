@@ -23,7 +23,8 @@ In this depository,you can find my personal work regarding video games projects 
 
 ## The impossible game 2
   The project was developed as a part of my MSc.It's platform game with hidden obstacles where the player has to memorize the level's obstacles in order to avoid them and progress.
-  
-   #### Game trailer that presents the story and gameplay aspects of the game
+ #### Gameplay Image
+![sssss](https://user-images.githubusercontent.com/14617188/55205604-7da9c600-51cb-11e9-8938-8f0fa1a744e7.PNG)  
+ #### Game trailer that presents the story and gameplay aspects of the game
   https://www.youtube.com/watch?v=dXvWMpsA4wQ
 
