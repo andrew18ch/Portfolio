@@ -1,5 +1,5 @@
 # Portfolio
-In this depository,you can find my personal work regarding video games projects that i created
+In this depository,you can find my personal work regarding video games projects that I created
 
 ## A first approach to combat Mechanics and Animations for RPG game classes
   This project was developed as a part of my Bachelor's thesis.It aims to have a first approach with the creation of the appropriate mechanics and animations for the combat system of specific role playing game(RPG) classes.The RPG classes that have been developed for this thesis are the warrior,mage and archer.The development of these classes has been based on styles and techniques of already existent and well-known RPGs.Except from the creation of the classes,another target was to understand the difficulties and requirements for RPG classes development.
@@ -19,4 +19,11 @@ In this depository,you can find my personal work regarding video games projects 
 ![scee](https://user-images.githubusercontent.com/14617188/51009565-8c77c980-1548-11e9-9834-baff23144e39.PNG)
  #### Scene as it is executed.Use torchlight and grayscale affect.
 ![default](https://user-images.githubusercontent.com/14617188/51009613-b6c98700-1548-11e9-9823-217c111db189.PNG)
+
+
+## The impossible game 2
+  The project was developed as a part of my MSc.It's platform game with hidden obstacles where the player has to memorize the level's obstacles in order to avoid them and progress.
+  
+   #### Game trailer that presents the story and gameplay aspects of the game
+  https://www.youtube.com/watch?v=dXvWMpsA4wQ
 
