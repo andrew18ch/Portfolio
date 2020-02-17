@@ -29,7 +29,7 @@ In this depository,you can find my personal work regarding video games projects 
   https://www.youtube.com/watch?v=dXvWMpsA4wQ
 
 ## Non Player Character Behavior based on interaction (C# Project)
- The goal of my thesis is to develop a human-like intelligent NPC and analyze its behavior regarding its interaction with the environment and other characters. In order to achieve that, artificial intelligence algorithms and psychological models will be used. It will be developed with Unity in C#.(ongoing)
+ The goal of my thesis is to develop a human-like intelligent NPC and analyze its behavior regarding its interaction with the environment and other characters. In order to achieve that, artificial intelligence algorithms and psychological models will be used. It will be developed with Unity in C#.
   #### Gameplay Image
  ![1111](https://user-images.githubusercontent.com/14617188/61522158-775d8500-aa1a-11e9-825c-32ed1c56dee1.PNG)
   #### Gameplay Image
